@@ -1,6 +1,6 @@
 # Bank Telemarketing Campaign
 
-
+[Bank Telemarketing Campaign.pptx](https://github.com/user-attachments/files/16902430/Bank.Telemarketing.Campaign.pptx)
 
 
 ## Dataset Overview
@@ -53,17 +53,21 @@ a. Identify and rectify outliers that could impact the analysis and predictions.
 
 
 # Conclusion
-
+A comprehensive strategy to enhance targeted marketing campaigns through effective customer segmentation, personalized messaging, optimized campaign execution, and continuous performance monitoring. By leveraging data-driven insights, advanced modeling techniques, and a multi-channel communication approach, we aim to maximize customer engagement, improve response rates, and drive higher conversion rates. Integrating feedback from both customers and sales agents will further refine our strategies, ensuring that future campaigns are continuously optimized for effectiveness and efficiency. Through ongoing enhancements and iterative refinement, we are committed to developing a dynamic and responsive marketing framework that aligns with customer needs and market trends.
 
 
 
 
 
 # Tools/Software:
-Python - Jupyter Notebook, numpy, pandas, matplotlib, seaborn
+### Data Handling and Visualization:
+➢ Libraries: NumPy, pandas, Matplotlib, Seaborn, SciPy, Missingno.
+
+### Preprocessing and Modeling:
+➢ Libraries: Scikit-learn, Statsmodels.
 
 # Files to be uploaded in the repository:
 1. Dataset --> Attribute details.xlsx and bank_marketing_updated_v1.csv
-2. Code --> 
+2. Code --> Bank Telemarketing Campaign.ipynb, Bank Telemarketing Campaign.pptx
 
 
